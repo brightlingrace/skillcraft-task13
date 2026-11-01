@@ -1,0 +1,901 @@
+Employee_ID,Age,Age_Group,Department,OverTime,Monthly_Income,Years_At_Company,Job_Satisfaction,Attrition
+EMP-0001,53,50+,Research & Development,Yes,4868,17,4,No
+EMP-0002,28,Under 30,Human Resources,No,5151,21,4,No
+EMP-0003,43,40–49,Research & Development,No,5858,18,2,No
+EMP-0004,34,30–39,Sales,No,4580,5,3,No
+EMP-0005,60,50+,Sales,No,7843,10,3,No
+EMP-0006,22,Under 30,Research & Development,No,9278,6,2,No
+EMP-0007,56,50+,Sales,No,7903,13,4,Yes
+EMP-0008,27,Under 30,Sales,No,6666,22,1,No
+EMP-0009,49,40–49,Sales,No,5775,6,3,No
+EMP-0010,44,40–49,Research & Development,No,8983,21,4,No
+EMP-0011,29,Under 30,Research & Development,No,5868,15,2,No
+EMP-0012,35,30–39,Research & Development,No,11012,21,1,No
+EMP-0013,29,Under 30,Research & Development,Yes,6053,7,2,No
+EMP-0014,59,50+,Research & Development,Yes,9503,21,4,No
+EMP-0015,55,50+,Research & Development,No,6435,17,1,No
+EMP-0016,56,50+,Research & Development,Yes,6470,20,3,No
+EMP-0017,41,40–49,Research & Development,Yes,8079,7,4,No
+EMP-0018,25,Under 30,Human Resources,No,9628,15,3,No
+EMP-0019,41,40–49,Research & Development,No,8007,12,2,No
+EMP-0020,58,50+,Research & Development,Yes,7349,17,3,No
+EMP-0021,23,Under 30,Sales,No,6499,1,1,No
+EMP-0022,21,Under 30,Sales,No,7585,4,4,No
+EMP-0023,55,50+,Research & Development,No,5544,0,1,No
+EMP-0024,49,40–49,Research & Development,No,8848,18,2,No
+EMP-0025,29,Under 30,Sales,No,4009,20,4,No
+EMP-0026,29,Under 30,Sales,No,7423,21,2,No
+EMP-0027,37,30–39,Research & Development,No,7583,5,4,Yes
+EMP-0028,57,50+,Research & Development,No,7099,9,3,No
+EMP-0029,25,Under 30,Research & Development,Yes,5767,20,1,No
+EMP-0030,35,30–39,Research & Development,No,6992,24,1,No
+EMP-0031,28,Under 30,Research & Development,Yes,4974,10,3,Yes
+EMP-0032,33,30–39,Research & Development,No,7410,20,3,No
+EMP-0033,37,30–39,Research & Development,Yes,6435,5,2,No
+EMP-0034,34,30–39,Sales,Yes,6214,12,2,No
+EMP-0035,38,30–39,Sales,No,6080,10,4,No
+EMP-0036,53,50+,Sales,No,5514,16,2,No
+EMP-0037,58,50+,Sales,Yes,3296,14,4,No
+EMP-0038,50,50+,Research & Development,No,5962,1,3,No
+EMP-0039,45,40–49,Sales,No,7567,5,2,No
+EMP-0040,50,50+,Research & Development,No,6105,16,2,No
+EMP-0041,34,30–39,Human Resources,No,11624,22,4,No
+EMP-0042,60,50+,Research & Development,No,6036,4,2,No
+EMP-0043,60,50+,Sales,No,5052,5,4,No
+EMP-0044,48,40–49,Human Resources,No,8818,14,4,No
+EMP-0045,55,50+,Sales,No,6903,16,3,No
+EMP-0046,42,40–49,Research & Development,No,7937,2,4,No
+EMP-0047,41,40–49,Sales,No,5866,20,2,No
+EMP-0048,54,50+,Research & Development,No,3837,23,4,No
+EMP-0049,52,50+,Sales,No,3202,16,2,No
+EMP-0050,38,30–39,Sales,No,8814,17,4,No
+EMP-0051,59,50+,Research & Development,Yes,7340,3,1,No
+EMP-0052,46,40–49,Sales,No,5639,5,3,No
+EMP-0053,55,50+,Research & Development,No,7780,19,3,No
+EMP-0054,24,Under 30,Research & Development,Yes,7608,12,4,No
+EMP-0055,31,30–39,Human Resources,No,5541,10,4,No
+EMP-0056,36,30–39,Human Resources,No,9438,5,2,No
+EMP-0057,50,50+,Research & Development,No,6309,24,2,No
+EMP-0058,43,40–49,Sales,No,9518,9,2,No
+EMP-0059,33,30–39,Sales,No,5405,4,2,Yes
+EMP-0060,28,Under 30,Human Resources,Yes,4621,22,4,No
+EMP-0061,53,50+,Sales,Yes,9517,13,4,No
+EMP-0062,46,40–49,Sales,Yes,4021,15,4,No
+EMP-0063,53,50+,Research & Development,No,7108,17,2,Yes
+EMP-0064,40,40–49,Research & Development,No,7856,14,2,No
+EMP-0065,42,40–49,Sales,Yes,4344,8,4,No
+EMP-0066,36,30–39,Sales,Yes,7944,24,2,Yes
+EMP-0067,29,Under 30,Research & Development,No,7904,5,4,No
+EMP-0068,48,40–49,Research & Development,No,3403,5,4,No
+EMP-0069,50,50+,Research & Development,No,7031,20,1,Yes
+EMP-0070,38,30–39,Research & Development,No,5735,5,4,No
+EMP-0071,40,40–49,Sales,No,8006,8,2,No
+EMP-0072,39,30–39,Research & Development,No,9516,6,4,No
+EMP-0073,47,40–49,Research & Development,Yes,3445,7,3,Yes
+EMP-0074,51,50+,Sales,Yes,7318,8,4,No
+EMP-0075,35,30–39,Research & Development,No,5399,5,2,No
+EMP-0076,41,40–49,Sales,No,3678,13,4,No
+EMP-0077,40,40–49,Sales,No,5435,11,1,No
+EMP-0078,55,50+,Research & Development,Yes,10415,5,4,No
+EMP-0079,55,50+,Research & Development,No,7804,3,4,No
+EMP-0080,29,Under 30,Research & Development,No,5036,14,4,No
+EMP-0081,51,50+,Research & Development,No,6994,18,3,No
+EMP-0082,57,50+,Research & Development,No,8760,23,4,No
+EMP-0083,38,30–39,Sales,No,7388,15,4,No
+EMP-0084,37,30–39,Research & Development,No,4085,11,2,No
+EMP-0085,35,30–39,Sales,No,6612,8,2,No
+EMP-0086,56,50+,Sales,No,5689,0,4,No
+EMP-0087,48,40–49,Sales,No,1800,4,3,No
+EMP-0088,30,30–39,Research & Development,No,3615,4,3,No
+EMP-0089,35,30–39,Research & Development,No,4718,9,1,No
+EMP-0090,22,Under 30,Research & Development,No,11374,6,4,No
+EMP-0091,29,Under 30,Research & Development,No,8364,16,4,No
+EMP-0092,60,50+,Research & Development,No,5126,19,4,No
+EMP-0093,27,Under 30,Research & Development,Yes,5107,16,1,Yes
+EMP-0094,54,50+,Research & Development,Yes,6102,17,4,No
+EMP-0095,22,Under 30,Human Resources,Yes,7083,11,4,No
+EMP-0096,48,40–49,Sales,Yes,6250,3,2,Yes
+EMP-0097,37,30–39,Human Resources,Yes,9985,1,3,No
+EMP-0098,60,50+,Research & Development,No,9047,8,2,No
+EMP-0099,45,40–49,Human Resources,Yes,5205,14,3,No
+EMP-0100,34,30–39,Research & Development,Yes,5675,19,2,No
+EMP-0101,44,40–49,Research & Development,No,4467,3,3,No
+EMP-0102,25,Under 30,Research & Development,Yes,6480,17,1,No
+EMP-0103,33,30–39,Research & Development,No,5614,19,1,No
+EMP-0104,28,Under 30,Sales,No,4829,5,4,No
+EMP-0105,41,40–49,Sales,No,7949,15,1,No
+EMP-0106,46,40–49,Sales,No,9668,20,1,No
+EMP-0107,60,50+,Human Resources,No,5222,6,1,No
+EMP-0108,26,Under 30,Research & Development,No,8326,24,4,No
+EMP-0109,57,50+,Sales,No,7492,15,4,No
+EMP-0110,51,50+,Sales,No,3718,8,3,No
+EMP-0111,42,40–49,Sales,Yes,7968,4,4,Yes
+EMP-0112,21,Under 30,Research & Development,Yes,5677,13,1,Yes
+EMP-0113,46,40–49,Research & Development,No,7024,22,2,Yes
+EMP-0114,36,30–39,Research & Development,No,7853,4,3,No
+EMP-0115,55,50+,Sales,Yes,6163,12,1,Yes
+EMP-0116,40,40–49,Research & Development,Yes,7674,18,4,Yes
+EMP-0117,29,Under 30,Research & Development,No,6946,13,3,No
+EMP-0118,23,Under 30,Human Resources,No,8921,15,2,Yes
+EMP-0119,27,Under 30,Research & Development,No,8897,0,4,No
+EMP-0120,25,Under 30,Sales,No,5753,6,3,No
+EMP-0121,22,Under 30,Human Resources,No,8885,10,4,No
+EMP-0122,49,40–49,Research & Development,No,6760,3,3,No
+EMP-0123,42,40–49,Human Resources,No,6829,24,2,Yes
+EMP-0124,52,50+,Research & Development,No,5023,17,4,No
+EMP-0125,27,Under 30,Sales,No,5048,11,3,No
+EMP-0126,24,Under 30,Sales,No,2582,2,4,No
+EMP-0127,40,40–49,Research & Development,No,6627,1,1,Yes
+EMP-0128,50,50+,Research & Development,No,6443,23,4,No
+EMP-0129,30,30–39,Sales,Yes,6172,8,2,No
+EMP-0130,24,Under 30,Research & Development,No,3251,11,3,No
+EMP-0131,57,50+,Sales,Yes,8299,24,3,No
+EMP-0132,38,30–39,Sales,Yes,5380,11,2,No
+EMP-0133,22,Under 30,Research & Development,No,7782,9,1,No
+EMP-0134,56,50+,Research & Development,No,5961,7,4,No
+EMP-0135,52,50+,Human Resources,Yes,8715,3,4,Yes
+EMP-0136,29,Under 30,Sales,No,6388,16,2,No
+EMP-0137,55,50+,Human Resources,No,4494,24,4,No
+EMP-0138,31,30–39,Human Resources,No,5356,4,2,No
+EMP-0139,54,50+,Research & Development,No,3583,10,2,No
+EMP-0140,52,50+,Sales,No,11104,22,4,No
+EMP-0141,37,30–39,Human Resources,Yes,8952,23,2,No
+EMP-0142,56,50+,Research & Development,No,8309,5,2,No
+EMP-0143,32,30–39,Research & Development,No,8863,7,1,No
+EMP-0144,27,Under 30,Research & Development,No,9092,14,1,No
+EMP-0145,26,Under 30,Research & Development,No,7504,10,3,No
+EMP-0146,43,40–49,Research & Development,No,12293,24,3,No
+EMP-0147,49,40–49,Research & Development,No,8835,19,1,No
+EMP-0148,30,30–39,Sales,No,5709,22,3,No
+EMP-0149,23,Under 30,Research & Development,No,6613,5,3,Yes
+EMP-0150,21,Under 30,Sales,No,3775,11,4,No
+EMP-0151,48,40–49,Sales,No,4527,5,3,No
+EMP-0152,54,50+,Research & Development,No,6895,4,1,No
+EMP-0153,52,50+,Sales,Yes,6568,17,4,No
+EMP-0154,30,30–39,Research & Development,No,5214,7,1,No
+EMP-0155,37,30–39,Research & Development,Yes,7299,4,3,Yes
+EMP-0156,45,40–49,Sales,No,6476,1,3,No
+EMP-0157,41,40–49,Human Resources,No,6677,19,2,No
+EMP-0158,29,Under 30,Research & Development,Yes,6520,11,3,No
+EMP-0159,29,Under 30,Research & Development,No,9599,18,4,No
+EMP-0160,27,Under 30,Research & Development,Yes,6490,13,3,No
+EMP-0161,44,40–49,Research & Development,No,7914,5,3,No
+EMP-0162,26,Under 30,Sales,No,5224,10,3,Yes
+EMP-0163,53,50+,Research & Development,No,4593,23,4,No
+EMP-0164,36,30–39,Research & Development,No,6284,3,1,No
+EMP-0165,41,40–49,Research & Development,Yes,8196,0,4,No
+EMP-0166,26,Under 30,Research & Development,No,7726,10,3,No
+EMP-0167,26,Under 30,Research & Development,Yes,7932,23,4,No
+EMP-0168,26,Under 30,Human Resources,Yes,6261,13,1,No
+EMP-0169,54,50+,Sales,Yes,7009,15,4,No
+EMP-0170,39,30–39,Research & Development,No,7801,10,3,No
+EMP-0171,24,Under 30,Research & Development,Yes,8487,9,4,No
+EMP-0172,34,30–39,Sales,Yes,5016,15,3,Yes
+EMP-0173,35,30–39,Research & Development,Yes,8126,9,4,No
+EMP-0174,31,30–39,Human Resources,No,3332,14,2,No
+EMP-0175,29,Under 30,Research & Development,No,4020,18,3,No
+EMP-0176,42,40–49,Research & Development,No,4926,11,3,No
+EMP-0177,57,50+,Research & Development,Yes,9686,4,2,No
+EMP-0178,38,30–39,Sales,No,6731,0,2,No
+EMP-0179,25,Under 30,Human Resources,No,4978,19,2,No
+EMP-0180,43,40–49,Sales,Yes,5309,15,1,No
+EMP-0181,51,50+,Sales,No,5872,7,3,No
+EMP-0182,28,Under 30,Human Resources,Yes,5081,14,4,No
+EMP-0183,21,Under 30,Sales,No,5980,10,2,No
+EMP-0184,55,50+,Sales,No,3440,8,4,No
+EMP-0185,48,40–49,Sales,No,2018,13,2,No
+EMP-0186,31,30–39,Research & Development,No,6131,23,3,No
+EMP-0187,50,50+,Research & Development,No,6159,18,4,No
+EMP-0188,50,50+,Research & Development,No,8905,12,2,No
+EMP-0189,50,50+,Research & Development,No,8118,22,3,No
+EMP-0190,55,50+,Research & Development,No,8909,17,2,No
+EMP-0191,40,40–49,Research & Development,No,5888,19,2,No
+EMP-0192,41,40–49,Research & Development,Yes,7031,17,3,No
+EMP-0193,29,Under 30,Sales,No,5299,3,2,No
+EMP-0194,34,30–39,Sales,No,3343,7,4,No
+EMP-0195,41,40–49,Research & Development,No,6243,7,1,No
+EMP-0196,35,30–39,Sales,No,5644,7,2,No
+EMP-0197,51,50+,Sales,Yes,5638,22,3,Yes
+EMP-0198,34,30–39,Sales,No,6525,0,2,No
+EMP-0199,24,Under 30,Research & Development,Yes,3536,17,3,No
+EMP-0200,36,30–39,Research & Development,Yes,7946,21,4,No
+EMP-0201,40,40–49,Research & Development,Yes,8931,21,1,No
+EMP-0202,24,Under 30,Sales,No,5513,7,4,No
+EMP-0203,35,30–39,Research & Development,No,6521,9,2,Yes
+EMP-0204,42,40–49,Research & Development,No,6691,5,1,No
+EMP-0205,21,Under 30,Research & Development,No,6246,11,4,No
+EMP-0206,55,50+,Research & Development,Yes,9264,11,2,No
+EMP-0207,37,30–39,Research & Development,Yes,5230,3,1,No
+EMP-0208,51,50+,Human Resources,No,9147,20,4,No
+EMP-0209,42,40–49,Research & Development,Yes,5154,12,4,Yes
+EMP-0210,28,Under 30,Research & Development,No,8460,3,3,No
+EMP-0211,25,Under 30,Research & Development,No,5940,3,2,No
+EMP-0212,21,Under 30,Research & Development,No,8260,6,1,No
+EMP-0213,32,30–39,Research & Development,No,9088,22,4,No
+EMP-0214,24,Under 30,Research & Development,No,7007,19,1,No
+EMP-0215,38,30–39,Human Resources,No,6470,15,4,No
+EMP-0216,47,40–49,Sales,No,7627,6,3,No
+EMP-0217,44,40–49,Research & Development,No,6290,17,1,No
+EMP-0218,43,40–49,Sales,No,5809,7,2,No
+EMP-0219,40,40–49,Sales,No,3888,6,4,No
+EMP-0220,52,50+,Research & Development,No,7143,16,1,Yes
+EMP-0221,30,30–39,Sales,No,4286,12,1,No
+EMP-0222,58,50+,Research & Development,Yes,7832,3,4,No
+EMP-0223,31,30–39,Research & Development,No,4733,12,4,No
+EMP-0224,49,40–49,Sales,No,7349,15,3,No
+EMP-0225,32,30–39,Human Resources,No,6610,20,1,No
+EMP-0226,35,30–39,Research & Development,No,5020,13,2,No
+EMP-0227,59,50+,Research & Development,Yes,6453,19,2,No
+EMP-0228,59,50+,Research & Development,No,7878,4,1,No
+EMP-0229,43,40–49,Sales,Yes,6114,7,3,No
+EMP-0230,35,30–39,Human Resources,Yes,5487,9,4,Yes
+EMP-0231,54,50+,Research & Development,Yes,9176,6,4,No
+EMP-0232,46,40–49,Research & Development,Yes,4393,14,4,No
+EMP-0233,45,40–49,Research & Development,No,7889,23,3,No
+EMP-0234,34,30–39,Research & Development,No,6915,4,2,No
+EMP-0235,40,40–49,Sales,No,3158,21,2,No
+EMP-0236,49,40–49,Research & Development,No,5843,22,3,No
+EMP-0237,51,50+,Research & Development,Yes,8491,2,2,No
+EMP-0238,34,30–39,Research & Development,No,5518,6,3,No
+EMP-0239,55,50+,Research & Development,Yes,8359,23,4,No
+EMP-0240,42,40–49,Research & Development,No,6091,19,4,No
+EMP-0241,38,30–39,Sales,No,6402,14,4,No
+EMP-0242,54,50+,Research & Development,No,6511,8,1,No
+EMP-0243,51,50+,Sales,No,5511,4,2,No
+EMP-0244,55,50+,Sales,No,6501,21,2,No
+EMP-0245,52,50+,Sales,No,5446,6,2,No
+EMP-0246,43,40–49,Sales,No,5664,15,4,No
+EMP-0247,36,30–39,Research & Development,No,4984,11,1,No
+EMP-0248,37,30–39,Sales,No,3146,7,4,No
+EMP-0249,44,40–49,Sales,No,9496,17,3,No
+EMP-0250,39,30–39,Research & Development,Yes,7332,1,1,No
+EMP-0251,49,40–49,Human Resources,No,4187,11,3,No
+EMP-0252,46,40–49,Sales,No,4236,16,3,No
+EMP-0253,34,30–39,Research & Development,Yes,7315,17,2,Yes
+EMP-0254,37,30–39,Research & Development,No,6460,1,2,No
+EMP-0255,29,Under 30,Research & Development,No,6481,11,1,Yes
+EMP-0256,46,40–49,Sales,No,6161,11,4,No
+EMP-0257,29,Under 30,Sales,Yes,5792,20,4,No
+EMP-0258,27,Under 30,Sales,No,5771,14,2,No
+EMP-0259,24,Under 30,Human Resources,No,8705,16,4,No
+EMP-0260,31,30–39,Sales,No,6429,22,2,No
+EMP-0261,49,40–49,Research & Development,Yes,8258,19,2,Yes
+EMP-0262,47,40–49,Research & Development,Yes,8215,5,3,No
+EMP-0263,40,40–49,Research & Development,No,7896,24,4,No
+EMP-0264,47,40–49,Research & Development,No,6147,5,3,No
+EMP-0265,60,50+,Sales,Yes,6056,12,4,No
+EMP-0266,21,Under 30,Research & Development,No,4985,15,2,No
+EMP-0267,26,Under 30,Human Resources,No,7421,24,4,No
+EMP-0268,38,30–39,Sales,Yes,7543,16,3,Yes
+EMP-0269,35,30–39,Human Resources,Yes,6131,22,2,No
+EMP-0270,40,40–49,Research & Development,No,4839,4,4,No
+EMP-0271,40,40–49,Research & Development,No,8777,16,4,No
+EMP-0272,27,Under 30,Research & Development,No,7679,14,3,No
+EMP-0273,46,40–49,Human Resources,No,4960,13,4,No
+EMP-0274,58,50+,Sales,No,4165,23,4,No
+EMP-0275,26,Under 30,Human Resources,No,5991,7,3,No
+EMP-0276,60,50+,Research & Development,No,6069,15,4,No
+EMP-0277,58,50+,Research & Development,No,7728,14,2,No
+EMP-0278,59,50+,Research & Development,Yes,5854,17,2,No
+EMP-0279,30,30–39,Research & Development,Yes,9314,17,1,Yes
+EMP-0280,28,Under 30,Research & Development,No,7600,14,3,No
+EMP-0281,60,50+,Research & Development,Yes,6475,14,4,No
+EMP-0282,35,30–39,Research & Development,No,7847,13,4,No
+EMP-0283,45,40–49,Human Resources,Yes,6088,3,4,Yes
+EMP-0284,54,50+,Research & Development,No,7356,15,3,No
+EMP-0285,60,50+,Sales,Yes,4675,19,2,No
+EMP-0286,24,Under 30,Sales,Yes,5137,8,3,No
+EMP-0287,40,40–49,Sales,No,8856,14,3,No
+EMP-0288,29,Under 30,Research & Development,No,5072,2,4,No
+EMP-0289,48,40–49,Research & Development,No,7413,11,2,No
+EMP-0290,39,30–39,Research & Development,No,10538,4,4,Yes
+EMP-0291,32,30–39,Research & Development,No,7288,17,4,No
+EMP-0292,57,50+,Human Resources,Yes,8419,1,2,No
+EMP-0293,43,40–49,Sales,Yes,6411,16,2,Yes
+EMP-0294,28,Under 30,Research & Development,No,5943,24,1,No
+EMP-0295,44,40–49,Sales,No,6857,9,1,Yes
+EMP-0296,46,40–49,Sales,Yes,4869,0,1,No
+EMP-0297,40,40–49,Research & Development,No,7464,20,2,No
+EMP-0298,49,40–49,Sales,Yes,2823,20,2,No
+EMP-0299,25,Under 30,Sales,No,5129,4,1,Yes
+EMP-0300,53,50+,Sales,No,5663,23,4,No
+EMP-0301,44,40–49,Sales,No,5392,24,4,No
+EMP-0302,37,30–39,Research & Development,No,5653,4,4,No
+EMP-0303,29,Under 30,Research & Development,Yes,7101,21,1,No
+EMP-0304,43,40–49,Sales,Yes,4258,6,4,No
+EMP-0305,25,Under 30,Research & Development,No,5483,6,4,No
+EMP-0306,59,50+,Research & Development,Yes,9705,21,4,Yes
+EMP-0307,25,Under 30,Research & Development,Yes,6905,18,1,No
+EMP-0308,42,40–49,Research & Development,Yes,8447,15,1,Yes
+EMP-0309,29,Under 30,Sales,No,8480,20,1,No
+EMP-0310,26,Under 30,Sales,No,2552,10,2,No
+EMP-0311,51,50+,Human Resources,Yes,6676,11,3,No
+EMP-0312,43,40–49,Sales,No,5630,20,3,No
+EMP-0313,34,30–39,Research & Development,Yes,7176,24,2,Yes
+EMP-0314,60,50+,Research & Development,No,6718,9,4,No
+EMP-0315,31,30–39,Research & Development,Yes,6884,21,1,Yes
+EMP-0316,55,50+,Research & Development,No,6256,17,3,No
+EMP-0317,38,30–39,Research & Development,No,4086,8,3,No
+EMP-0318,44,40–49,Research & Development,No,5923,12,4,Yes
+EMP-0319,37,30–39,Research & Development,Yes,8364,20,1,No
+EMP-0320,29,Under 30,Research & Development,No,4208,9,3,No
+EMP-0321,39,30–39,Research & Development,No,5304,17,1,Yes
+EMP-0322,22,Under 30,Sales,No,5312,3,2,No
+EMP-0323,41,40–49,Human Resources,No,7872,17,1,No
+EMP-0324,28,Under 30,Research & Development,No,7361,19,2,No
+EMP-0325,41,40–49,Research & Development,No,7800,10,1,No
+EMP-0326,44,40–49,Research & Development,No,6392,3,1,No
+EMP-0327,28,Under 30,Research & Development,No,7635,8,1,No
+EMP-0328,32,30–39,Research & Development,Yes,9003,0,3,No
+EMP-0329,28,Under 30,Sales,Yes,5019,6,3,No
+EMP-0330,47,40–49,Sales,No,1800,1,3,No
+EMP-0331,42,40–49,Sales,No,7317,11,2,No
+EMP-0332,33,30–39,Research & Development,Yes,10647,19,1,Yes
+EMP-0333,58,50+,Sales,No,7882,12,4,Yes
+EMP-0334,21,Under 30,Sales,Yes,6574,21,3,No
+EMP-0335,57,50+,Sales,No,7442,19,1,No
+EMP-0336,27,Under 30,Sales,Yes,8644,21,1,No
+EMP-0337,24,Under 30,Research & Development,No,5896,10,4,No
+EMP-0338,49,40–49,Research & Development,No,5323,16,3,No
+EMP-0339,29,Under 30,Research & Development,No,7858,2,3,No
+EMP-0340,29,Under 30,Research & Development,Yes,4379,14,2,Yes
+EMP-0341,58,50+,Sales,Yes,5777,2,1,No
+EMP-0342,28,Under 30,Research & Development,Yes,4267,24,2,No
+EMP-0343,49,40–49,Human Resources,Yes,6552,3,2,No
+EMP-0344,37,30–39,Research & Development,Yes,4147,6,4,Yes
+EMP-0345,36,30–39,Human Resources,Yes,6508,7,3,No
+EMP-0346,21,Under 30,Sales,No,5503,0,4,No
+EMP-0347,24,Under 30,Research & Development,No,6706,9,3,No
+EMP-0348,49,40–49,Research & Development,Yes,7306,17,3,No
+EMP-0349,28,Under 30,Research & Development,Yes,6959,8,3,No
+EMP-0350,22,Under 30,Human Resources,Yes,6993,21,4,No
+EMP-0351,24,Under 30,Research & Development,No,4742,16,3,No
+EMP-0352,52,50+,Research & Development,Yes,4047,14,1,No
+EMP-0353,39,30–39,Human Resources,Yes,4775,14,3,No
+EMP-0354,54,50+,Research & Development,No,4816,3,1,No
+EMP-0355,28,Under 30,Research & Development,No,6172,15,3,Yes
+EMP-0356,43,40–49,Sales,Yes,7693,14,2,No
+EMP-0357,51,50+,Research & Development,Yes,5741,18,4,No
+EMP-0358,49,40–49,Research & Development,No,7146,17,2,No
+EMP-0359,27,Under 30,Research & Development,No,9804,18,3,No
+EMP-0360,44,40–49,Research & Development,No,5379,0,3,No
+EMP-0361,53,50+,Sales,No,7561,21,1,No
+EMP-0362,27,Under 30,Research & Development,No,7530,5,4,No
+EMP-0363,28,Under 30,Research & Development,No,5337,8,4,No
+EMP-0364,54,50+,Research & Development,No,4710,12,3,No
+EMP-0365,41,40–49,Research & Development,No,4621,24,3,No
+EMP-0366,55,50+,Research & Development,No,7242,14,3,No
+EMP-0367,35,30–39,Research & Development,No,7977,3,4,No
+EMP-0368,21,Under 30,Research & Development,No,5444,24,2,No
+EMP-0369,27,Under 30,Research & Development,No,7282,16,3,No
+EMP-0370,56,50+,Sales,Yes,2875,9,1,No
+EMP-0371,59,50+,Human Resources,No,6316,11,2,No
+EMP-0372,54,50+,Research & Development,No,7441,24,1,No
+EMP-0373,45,40–49,Research & Development,Yes,3827,0,3,Yes
+EMP-0374,31,30–39,Research & Development,Yes,10436,20,4,No
+EMP-0375,45,40–49,Sales,No,2170,17,2,No
+EMP-0376,22,Under 30,Sales,No,5531,12,1,No
+EMP-0377,46,40–49,Research & Development,No,6631,19,2,No
+EMP-0378,58,50+,Sales,No,4937,19,4,No
+EMP-0379,35,30–39,Research & Development,No,7807,2,2,No
+EMP-0380,46,40–49,Sales,Yes,7988,3,4,No
+EMP-0381,45,40–49,Sales,Yes,6651,21,4,No
+EMP-0382,35,30–39,Sales,No,7417,14,2,No
+EMP-0383,38,30–39,Sales,Yes,4409,22,2,Yes
+EMP-0384,25,Under 30,Research & Development,No,8034,1,2,Yes
+EMP-0385,40,40–49,Human Resources,No,9600,11,3,No
+EMP-0386,59,50+,Sales,No,6344,1,2,No
+EMP-0387,50,50+,Research & Development,No,7483,23,3,No
+EMP-0388,59,50+,Human Resources,No,6239,15,2,No
+EMP-0389,24,Under 30,Research & Development,No,8514,3,3,No
+EMP-0390,51,50+,Human Resources,No,6646,22,1,No
+EMP-0391,30,30–39,Research & Development,No,4551,7,3,No
+EMP-0392,40,40–49,Sales,Yes,5138,4,2,No
+EMP-0393,52,50+,Sales,No,4762,12,4,Yes
+EMP-0394,28,Under 30,Research & Development,No,8558,19,3,No
+EMP-0395,31,30–39,Research & Development,No,8616,5,1,No
+EMP-0396,21,Under 30,Human Resources,No,5337,19,2,No
+EMP-0397,25,Under 30,Human Resources,Yes,7880,7,4,No
+EMP-0398,52,50+,Research & Development,No,10417,12,1,No
+EMP-0399,39,30–39,Sales,Yes,5518,19,2,Yes
+EMP-0400,52,50+,Research & Development,No,5468,2,4,No
+EMP-0401,49,40–49,Research & Development,No,4526,17,1,No
+EMP-0402,58,50+,Research & Development,No,3359,0,4,No
+EMP-0403,23,Under 30,Research & Development,No,6443,16,1,No
+EMP-0404,34,30–39,Research & Development,Yes,9141,2,4,Yes
+EMP-0405,42,40–49,Sales,No,4732,19,1,No
+EMP-0406,29,Under 30,Research & Development,No,7216,8,4,No
+EMP-0407,56,50+,Sales,Yes,7139,8,1,No
+EMP-0408,28,Under 30,Research & Development,No,6377,19,4,No
+EMP-0409,57,50+,Sales,No,5250,8,1,No
+EMP-0410,22,Under 30,Sales,Yes,8190,13,1,Yes
+EMP-0411,41,40–49,Sales,Yes,6846,11,1,Yes
+EMP-0412,53,50+,Human Resources,No,7239,11,3,No
+EMP-0413,51,50+,Research & Development,No,7991,7,1,No
+EMP-0414,49,40–49,Human Resources,Yes,4102,10,1,Yes
+EMP-0415,37,30–39,Sales,No,2182,3,2,No
+EMP-0416,55,50+,Sales,No,7714,20,1,No
+EMP-0417,55,50+,Research & Development,No,6994,3,2,No
+EMP-0418,42,40–49,Research & Development,Yes,4153,11,3,Yes
+EMP-0419,58,50+,Research & Development,No,6201,12,4,No
+EMP-0420,48,40–49,Sales,No,4983,10,2,No
+EMP-0421,30,30–39,Sales,No,5603,13,4,No
+EMP-0422,34,30–39,Research & Development,No,9835,9,2,No
+EMP-0423,49,40–49,Research & Development,No,6965,8,1,No
+EMP-0424,51,50+,Human Resources,No,5590,17,1,No
+EMP-0425,22,Under 30,Sales,No,9231,8,3,No
+EMP-0426,22,Under 30,Research & Development,No,7873,4,3,Yes
+EMP-0427,27,Under 30,Research & Development,No,6178,13,3,No
+EMP-0428,21,Under 30,Sales,No,5517,0,4,No
+EMP-0429,25,Under 30,Research & Development,No,8451,7,2,No
+EMP-0430,49,40–49,Research & Development,No,6241,4,1,No
+EMP-0431,44,40–49,Human Resources,Yes,5224,10,3,No
+EMP-0432,23,Under 30,Sales,No,5011,10,1,No
+EMP-0433,25,Under 30,Research & Development,Yes,6712,16,3,No
+EMP-0434,39,30–39,Research & Development,No,6420,12,1,No
+EMP-0435,25,Under 30,Research & Development,Yes,5283,6,4,No
+EMP-0436,45,40–49,Research & Development,No,8488,13,1,No
+EMP-0437,43,40–49,Research & Development,No,6677,20,4,No
+EMP-0438,43,40–49,Sales,Yes,4129,4,3,Yes
+EMP-0439,25,Under 30,Human Resources,No,6118,22,4,No
+EMP-0440,40,40–49,Research & Development,No,4421,13,2,No
+EMP-0441,26,Under 30,Research & Development,Yes,4731,19,3,Yes
+EMP-0442,34,30–39,Research & Development,Yes,10208,9,1,No
+EMP-0443,29,Under 30,Human Resources,No,7851,6,1,No
+EMP-0444,32,30–39,Research & Development,Yes,6898,14,3,No
+EMP-0445,23,Under 30,Research & Development,No,3676,16,3,No
+EMP-0446,46,40–49,Research & Development,No,7782,19,4,No
+EMP-0447,41,40–49,Research & Development,No,7952,0,1,Yes
+EMP-0448,51,50+,Research & Development,No,7441,16,3,No
+EMP-0449,36,30–39,Research & Development,No,5667,1,1,Yes
+EMP-0450,30,30–39,Sales,No,11145,18,1,No
+EMP-0451,30,30–39,Research & Development,No,1928,19,2,No
+EMP-0452,23,Under 30,Research & Development,Yes,5952,4,3,No
+EMP-0453,35,30–39,Sales,No,6879,9,1,No
+EMP-0454,28,Under 30,Research & Development,No,6269,11,1,No
+EMP-0455,30,30–39,Research & Development,Yes,6092,10,2,No
+EMP-0456,49,40–49,Research & Development,Yes,8730,13,1,No
+EMP-0457,43,40–49,Research & Development,No,8044,13,4,No
+EMP-0458,48,40–49,Research & Development,No,3450,21,4,No
+EMP-0459,28,Under 30,Sales,No,4429,8,3,No
+EMP-0460,33,30–39,Sales,No,7502,5,2,No
+EMP-0461,27,Under 30,Research & Development,No,6254,8,3,Yes
+EMP-0462,60,50+,Sales,Yes,7261,19,2,Yes
+EMP-0463,43,40–49,Research & Development,No,4401,0,1,No
+EMP-0464,34,30–39,Sales,No,7036,5,2,Yes
+EMP-0465,24,Under 30,Sales,No,5988,21,3,No
+EMP-0466,45,40–49,Sales,No,3466,1,1,Yes
+EMP-0467,55,50+,Human Resources,No,7863,23,2,No
+EMP-0468,33,30–39,Research & Development,No,6518,15,2,No
+EMP-0469,40,40–49,Research & Development,Yes,7275,20,3,No
+EMP-0470,33,30–39,Sales,No,3589,13,3,No
+EMP-0471,42,40–49,Research & Development,No,8675,10,3,No
+EMP-0472,38,30–39,Sales,No,6319,17,4,No
+EMP-0473,43,40–49,Sales,No,4007,16,1,Yes
+EMP-0474,37,30–39,Research & Development,No,3466,17,4,No
+EMP-0475,24,Under 30,Research & Development,No,10197,14,1,No
+EMP-0476,46,40–49,Human Resources,No,5062,2,2,No
+EMP-0477,39,30–39,Research & Development,Yes,8362,12,4,No
+EMP-0478,46,40–49,Sales,No,4718,5,3,No
+EMP-0479,28,Under 30,Research & Development,No,6354,17,4,No
+EMP-0480,54,50+,Sales,No,6406,7,4,No
+EMP-0481,39,30–39,Research & Development,No,8381,13,3,No
+EMP-0482,26,Under 30,Research & Development,Yes,5807,13,4,Yes
+EMP-0483,55,50+,Human Resources,No,5988,3,2,No
+EMP-0484,35,30–39,Research & Development,No,3196,0,3,Yes
+EMP-0485,27,Under 30,Human Resources,Yes,6566,13,4,No
+EMP-0486,30,30–39,Research & Development,No,6116,3,2,No
+EMP-0487,55,50+,Human Resources,Yes,7811,14,1,No
+EMP-0488,38,30–39,Research & Development,No,7272,11,3,No
+EMP-0489,46,40–49,Research & Development,Yes,8415,3,2,No
+EMP-0490,39,30–39,Research & Development,Yes,4980,6,1,Yes
+EMP-0491,27,Under 30,Human Resources,No,8278,24,4,No
+EMP-0492,44,40–49,Sales,Yes,11410,4,1,No
+EMP-0493,30,30–39,Sales,No,2822,14,4,No
+EMP-0494,60,50+,Research & Development,Yes,7194,20,4,Yes
+EMP-0495,46,40–49,Human Resources,Yes,9355,22,3,No
+EMP-0496,44,40–49,Research & Development,No,10454,21,1,No
+EMP-0497,33,30–39,Human Resources,Yes,8463,7,2,No
+EMP-0498,25,Under 30,Research & Development,Yes,3400,2,4,No
+EMP-0499,34,30–39,Research & Development,No,7017,5,1,No
+EMP-0500,35,30–39,Research & Development,No,5449,4,1,Yes
+EMP-0501,58,50+,Sales,No,6333,21,2,No
+EMP-0502,34,30–39,Research & Development,No,4020,24,1,No
+EMP-0503,32,30–39,Sales,No,4803,5,2,No
+EMP-0504,36,30–39,Research & Development,No,5742,9,2,No
+EMP-0505,48,40–49,Research & Development,Yes,3991,17,3,No
+EMP-0506,54,50+,Sales,No,6692,9,2,No
+EMP-0507,37,30–39,Research & Development,No,8698,6,2,No
+EMP-0508,36,30–39,Research & Development,No,8499,19,4,No
+EMP-0509,52,50+,Research & Development,No,4461,1,1,No
+EMP-0510,58,50+,Human Resources,Yes,6144,9,4,No
+EMP-0511,50,50+,Sales,No,6553,2,3,No
+EMP-0512,56,50+,Sales,No,3787,5,3,No
+EMP-0513,46,40–49,Research & Development,No,7943,12,4,No
+EMP-0514,21,Under 30,Sales,No,7472,7,3,No
+EMP-0515,46,40–49,Sales,No,5503,23,4,No
+EMP-0516,30,30–39,Research & Development,Yes,8153,21,1,No
+EMP-0517,24,Under 30,Research & Development,No,6840,20,4,No
+EMP-0518,21,Under 30,Research & Development,Yes,8174,1,1,No
+EMP-0519,38,30–39,Research & Development,No,8291,3,2,Yes
+EMP-0520,23,Under 30,Sales,No,2538,7,2,No
+EMP-0521,27,Under 30,Research & Development,Yes,6386,1,3,No
+EMP-0522,60,50+,Sales,No,6797,7,3,No
+EMP-0523,54,50+,Sales,No,7589,12,3,No
+EMP-0524,37,30–39,Sales,No,5907,19,1,No
+EMP-0525,31,30–39,Sales,Yes,3140,1,4,Yes
+EMP-0526,33,30–39,Research & Development,No,4525,7,4,No
+EMP-0527,49,40–49,Research & Development,No,8826,14,1,No
+EMP-0528,22,Under 30,Research & Development,No,7117,16,4,No
+EMP-0529,30,30–39,Research & Development,No,8398,15,2,No
+EMP-0530,22,Under 30,Sales,No,3050,5,4,No
+EMP-0531,32,30–39,Sales,No,4789,9,4,No
+EMP-0532,35,30–39,Research & Development,No,6753,0,2,No
+EMP-0533,54,50+,Research & Development,No,7517,20,2,No
+EMP-0534,25,Under 30,Research & Development,Yes,6133,4,2,No
+EMP-0535,25,Under 30,Research & Development,No,7699,17,1,No
+EMP-0536,22,Under 30,Sales,No,7491,9,2,No
+EMP-0537,35,30–39,Sales,No,6731,7,2,No
+EMP-0538,29,Under 30,Research & Development,No,6603,4,3,No
+EMP-0539,52,50+,Research & Development,No,6468,20,4,No
+EMP-0540,48,40–49,Sales,No,8274,12,3,Yes
+EMP-0541,26,Under 30,Sales,Yes,8239,14,4,No
+EMP-0542,54,50+,Research & Development,Yes,5514,1,4,No
+EMP-0543,31,30–39,Research & Development,Yes,6160,20,1,No
+EMP-0544,38,30–39,Research & Development,No,3101,7,3,Yes
+EMP-0545,26,Under 30,Sales,No,5928,13,3,No
+EMP-0546,39,30–39,Human Resources,No,7241,17,3,No
+EMP-0547,27,Under 30,Research & Development,No,9381,1,4,No
+EMP-0548,60,50+,Sales,No,4304,13,1,No
+EMP-0549,47,40–49,Research & Development,No,7535,12,4,No
+EMP-0550,50,50+,Research & Development,Yes,6175,7,3,No
+EMP-0551,48,40–49,Sales,No,4948,9,1,No
+EMP-0552,56,50+,Sales,No,5241,18,4,No
+EMP-0553,45,40–49,Research & Development,No,6128,4,1,No
+EMP-0554,41,40–49,Research & Development,No,3430,24,2,No
+EMP-0555,22,Under 30,Human Resources,No,7410,15,3,No
+EMP-0556,23,Under 30,Research & Development,Yes,7886,17,1,Yes
+EMP-0557,47,40–49,Research & Development,Yes,6254,23,2,Yes
+EMP-0558,41,40–49,Research & Development,No,7145,11,3,No
+EMP-0559,37,30–39,Sales,No,5983,22,4,No
+EMP-0560,60,50+,Research & Development,No,8148,15,4,No
+EMP-0561,54,50+,Research & Development,No,4714,8,1,No
+EMP-0562,47,40–49,Sales,Yes,2795,11,2,Yes
+EMP-0563,21,Under 30,Research & Development,No,3973,9,3,No
+EMP-0564,21,Under 30,Sales,No,6506,16,3,Yes
+EMP-0565,35,30–39,Research & Development,No,5337,15,4,No
+EMP-0566,41,40–49,Human Resources,No,4858,0,4,No
+EMP-0567,41,40–49,Sales,Yes,2489,3,2,No
+EMP-0568,27,Under 30,Research & Development,No,6511,23,4,No
+EMP-0569,28,Under 30,Sales,Yes,6634,23,4,No
+EMP-0570,36,30–39,Research & Development,No,5174,4,3,No
+EMP-0571,35,30–39,Research & Development,No,4679,1,4,No
+EMP-0572,54,50+,Research & Development,No,6000,15,4,No
+EMP-0573,29,Under 30,Research & Development,No,5408,22,3,No
+EMP-0574,27,Under 30,Sales,No,8527,13,2,No
+EMP-0575,54,50+,Sales,Yes,7425,6,3,No
+EMP-0576,34,30–39,Sales,No,7346,13,2,No
+EMP-0577,34,30–39,Research & Development,No,6878,4,2,No
+EMP-0578,44,40–49,Human Resources,No,9001,14,1,No
+EMP-0579,34,30–39,Research & Development,Yes,6619,4,3,No
+EMP-0580,25,Under 30,Research & Development,No,7186,5,3,No
+EMP-0581,22,Under 30,Research & Development,Yes,4792,19,2,Yes
+EMP-0582,21,Under 30,Sales,No,5399,19,2,No
+EMP-0583,52,50+,Research & Development,No,5559,3,1,No
+EMP-0584,51,50+,Sales,No,4667,13,2,No
+EMP-0585,45,40–49,Sales,No,7133,12,2,No
+EMP-0586,35,30–39,Sales,No,7491,1,3,Yes
+EMP-0587,57,50+,Research & Development,No,4345,11,4,No
+EMP-0588,48,40–49,Sales,Yes,8400,15,2,No
+EMP-0589,21,Under 30,Sales,Yes,5879,14,1,No
+EMP-0590,54,50+,Human Resources,No,5140,5,3,No
+EMP-0591,60,50+,Sales,No,7074,17,2,No
+EMP-0592,21,Under 30,Research & Development,No,2604,16,4,No
+EMP-0593,37,30–39,Research & Development,No,5050,0,1,No
+EMP-0594,57,50+,Human Resources,No,5188,16,2,No
+EMP-0595,45,40–49,Research & Development,No,6949,13,2,No
+EMP-0596,55,50+,Research & Development,Yes,7652,14,4,No
+EMP-0597,51,50+,Research & Development,Yes,5581,7,4,Yes
+EMP-0598,36,30–39,Research & Development,No,6126,21,2,No
+EMP-0599,30,30–39,Sales,No,5258,3,1,No
+EMP-0600,41,40–49,Research & Development,Yes,8758,13,3,Yes
+EMP-0601,56,50+,Research & Development,Yes,9725,15,3,No
+EMP-0602,39,30–39,Sales,Yes,3448,11,3,No
+EMP-0603,52,50+,Sales,No,6293,14,3,No
+EMP-0604,31,30–39,Human Resources,Yes,6354,8,1,Yes
+EMP-0605,60,50+,Research & Development,No,3790,23,2,No
+EMP-0606,60,50+,Research & Development,No,5349,11,4,No
+EMP-0607,42,40–49,Research & Development,No,7479,12,1,No
+EMP-0608,31,30–39,Research & Development,No,10615,21,3,No
+EMP-0609,26,Under 30,Research & Development,Yes,7320,11,1,Yes
+EMP-0610,30,30–39,Sales,No,5593,16,2,No
+EMP-0611,36,30–39,Research & Development,No,6553,17,3,No
+EMP-0612,49,40–49,Research & Development,No,5933,7,3,No
+EMP-0613,39,30–39,Research & Development,Yes,8499,2,1,No
+EMP-0614,24,Under 30,Research & Development,No,7151,20,4,No
+EMP-0615,42,40–49,Sales,Yes,6228,20,4,No
+EMP-0616,48,40–49,Research & Development,Yes,4776,22,4,Yes
+EMP-0617,22,Under 30,Human Resources,No,7800,24,4,No
+EMP-0618,38,30–39,Research & Development,Yes,5032,1,3,No
+EMP-0619,50,50+,Sales,No,5659,6,4,No
+EMP-0620,51,50+,Research & Development,No,5401,20,3,No
+EMP-0621,53,50+,Human Resources,No,4677,23,3,No
+EMP-0622,40,40–49,Human Resources,Yes,4252,11,4,No
+EMP-0623,24,Under 30,Research & Development,No,6277,3,2,No
+EMP-0624,46,40–49,Research & Development,No,8088,10,2,No
+EMP-0625,30,30–39,Research & Development,Yes,7128,22,1,No
+EMP-0626,27,Under 30,Sales,Yes,8104,12,3,Yes
+EMP-0627,58,50+,Sales,No,5495,4,2,No
+EMP-0628,30,30–39,Sales,No,7835,2,3,No
+EMP-0629,60,50+,Research & Development,No,9399,24,4,No
+EMP-0630,41,40–49,Human Resources,No,3789,5,1,No
+EMP-0631,29,Under 30,Research & Development,No,6662,1,2,No
+EMP-0632,25,Under 30,Research & Development,Yes,7885,9,3,Yes
+EMP-0633,50,50+,Sales,Yes,8187,9,2,No
+EMP-0634,21,Under 30,Research & Development,No,6211,13,2,Yes
+EMP-0635,53,50+,Sales,Yes,4720,2,3,No
+EMP-0636,58,50+,Sales,No,6250,14,4,No
+EMP-0637,53,50+,Research & Development,Yes,6749,24,1,Yes
+EMP-0638,27,Under 30,Research & Development,No,8972,18,4,No
+EMP-0639,44,40–49,Sales,No,6217,20,4,No
+EMP-0640,35,30–39,Human Resources,Yes,3881,14,4,No
+EMP-0641,55,50+,Research & Development,No,10492,23,3,No
+EMP-0642,46,40–49,Sales,No,4236,12,4,No
+EMP-0643,53,50+,Sales,No,2495,7,4,No
+EMP-0644,31,30–39,Research & Development,No,7760,0,1,No
+EMP-0645,34,30–39,Research & Development,No,6010,3,2,Yes
+EMP-0646,23,Under 30,Research & Development,Yes,5062,20,4,No
+EMP-0647,41,40–49,Sales,No,4173,21,2,Yes
+EMP-0648,58,50+,Sales,No,3772,15,3,No
+EMP-0649,56,50+,Research & Development,No,5551,4,1,No
+EMP-0650,37,30–39,Research & Development,No,7416,16,4,No
+EMP-0651,50,50+,Research & Development,Yes,5594,2,2,No
+EMP-0652,26,Under 30,Research & Development,No,5960,10,2,No
+EMP-0653,39,30–39,Sales,No,7315,18,1,No
+EMP-0654,29,Under 30,Research & Development,No,6685,8,3,No
+EMP-0655,54,50+,Research & Development,Yes,6148,16,2,No
+EMP-0656,30,30–39,Research & Development,Yes,7121,23,3,No
+EMP-0657,51,50+,Research & Development,No,8285,23,3,No
+EMP-0658,24,Under 30,Sales,No,2792,9,2,No
+EMP-0659,56,50+,Research & Development,No,8432,6,1,No
+EMP-0660,56,50+,Research & Development,Yes,4186,2,4,Yes
+EMP-0661,34,30–39,Sales,No,4974,11,2,No
+EMP-0662,46,40–49,Research & Development,Yes,6071,13,3,No
+EMP-0663,38,30–39,Human Resources,Yes,6286,10,2,Yes
+EMP-0664,39,30–39,Research & Development,No,8523,23,1,No
+EMP-0665,55,50+,Research & Development,No,9742,16,1,No
+EMP-0666,47,40–49,Research & Development,No,8330,4,2,No
+EMP-0667,29,Under 30,Human Resources,No,6936,12,3,No
+EMP-0668,35,30–39,Human Resources,No,3615,8,3,No
+EMP-0669,24,Under 30,Sales,No,8235,18,3,No
+EMP-0670,26,Under 30,Human Resources,Yes,6657,12,1,No
+EMP-0671,43,40–49,Human Resources,No,5126,10,3,Yes
+EMP-0672,37,30–39,Sales,No,7233,21,1,No
+EMP-0673,27,Under 30,Research & Development,No,12479,10,4,No
+EMP-0674,37,30–39,Research & Development,No,7724,0,1,No
+EMP-0675,54,50+,Research & Development,No,6912,8,4,No
+EMP-0676,43,40–49,Sales,Yes,5865,0,2,Yes
+EMP-0677,30,30–39,Research & Development,No,4988,17,4,No
+EMP-0678,33,30–39,Research & Development,Yes,6454,7,2,Yes
+EMP-0679,53,50+,Research & Development,No,8665,7,3,No
+EMP-0680,40,40–49,Human Resources,No,11518,9,4,No
+EMP-0681,54,50+,Research & Development,No,5978,22,3,No
+EMP-0682,41,40–49,Research & Development,No,8417,0,3,No
+EMP-0683,34,30–39,Research & Development,No,5498,13,4,No
+EMP-0684,39,30–39,Research & Development,No,2884,9,4,No
+EMP-0685,56,50+,Sales,No,5673,21,4,No
+EMP-0686,60,50+,Research & Development,Yes,4868,17,4,No
+EMP-0687,39,30–39,Human Resources,No,8432,21,3,No
+EMP-0688,52,50+,Research & Development,No,7530,20,3,No
+EMP-0689,57,50+,Research & Development,No,8250,12,2,No
+EMP-0690,40,40–49,Research & Development,Yes,6879,18,3,No
+EMP-0691,25,Under 30,Sales,No,6604,16,2,No
+EMP-0692,42,40–49,Research & Development,No,7553,15,3,Yes
+EMP-0693,40,40–49,Research & Development,No,6659,16,2,No
+EMP-0694,31,30–39,Sales,Yes,4972,24,3,No
+EMP-0695,36,30–39,Research & Development,No,7247,20,4,Yes
+EMP-0696,46,40–49,Research & Development,No,5210,6,1,Yes
+EMP-0697,35,30–39,Research & Development,Yes,9193,18,2,No
+EMP-0698,33,30–39,Research & Development,No,5739,6,4,No
+EMP-0699,34,30–39,Human Resources,No,5984,17,3,No
+EMP-0700,33,30–39,Sales,No,8993,9,1,No
+EMP-0701,23,Under 30,Research & Development,No,7852,16,1,No
+EMP-0702,47,40–49,Human Resources,No,6902,20,4,No
+EMP-0703,29,Under 30,Research & Development,Yes,7454,4,3,Yes
+EMP-0704,34,30–39,Research & Development,No,8628,9,4,No
+EMP-0705,23,Under 30,Research & Development,No,6300,19,3,No
+EMP-0706,57,50+,Research & Development,Yes,6863,4,4,Yes
+EMP-0707,58,50+,Sales,Yes,4512,18,2,No
+EMP-0708,36,30–39,Research & Development,No,9537,20,3,Yes
+EMP-0709,51,50+,Sales,No,5355,18,1,No
+EMP-0710,31,30–39,Sales,Yes,7414,19,2,No
+EMP-0711,48,40–49,Research & Development,No,6652,21,2,No
+EMP-0712,31,30–39,Research & Development,No,7814,12,2,No
+EMP-0713,23,Under 30,Research & Development,No,9188,6,1,Yes
+EMP-0714,53,50+,Research & Development,No,1974,8,1,No
+EMP-0715,50,50+,Research & Development,No,4594,15,3,No
+EMP-0716,36,30–39,Research & Development,No,7484,5,4,No
+EMP-0717,24,Under 30,Human Resources,No,3840,15,3,No
+EMP-0718,44,40–49,Research & Development,Yes,10447,14,2,No
+EMP-0719,50,50+,Sales,No,3833,24,2,No
+EMP-0720,36,30–39,Human Resources,No,8368,5,3,No
+EMP-0721,42,40–49,Sales,Yes,5791,17,1,Yes
+EMP-0722,34,30–39,Research & Development,No,6701,21,4,No
+EMP-0723,52,50+,Research & Development,No,8045,22,4,No
+EMP-0724,35,30–39,Research & Development,No,7067,20,1,No
+EMP-0725,50,50+,Sales,No,4780,15,3,No
+EMP-0726,27,Under 30,Research & Development,No,3744,13,3,No
+EMP-0727,47,40–49,Human Resources,Yes,6252,2,4,No
+EMP-0728,33,30–39,Research & Development,No,7965,0,4,No
+EMP-0729,60,50+,Research & Development,No,7824,23,1,No
+EMP-0730,32,30–39,Sales,Yes,4012,17,2,No
+EMP-0731,34,30–39,Research & Development,Yes,5435,21,2,No
+EMP-0732,41,40–49,Research & Development,No,4260,15,2,No
+EMP-0733,52,50+,Human Resources,Yes,8128,12,1,Yes
+EMP-0734,40,40–49,Research & Development,No,6288,11,2,No
+EMP-0735,55,50+,Research & Development,No,7012,0,4,No
+EMP-0736,39,30–39,Research & Development,No,4791,3,1,No
+EMP-0737,36,30–39,Sales,No,5233,22,2,Yes
+EMP-0738,21,Under 30,Sales,No,6386,13,3,No
+EMP-0739,42,40–49,Research & Development,No,8773,18,2,No
+EMP-0740,23,Under 30,Research & Development,No,6029,13,1,No
+EMP-0741,27,Under 30,Sales,No,10099,4,1,No
+EMP-0742,40,40–49,Research & Development,Yes,9132,2,2,No
+EMP-0743,31,30–39,Research & Development,No,6742,16,4,No
+EMP-0744,44,40–49,Research & Development,No,7254,15,4,No
+EMP-0745,36,30–39,Research & Development,Yes,5323,22,2,No
+EMP-0746,54,50+,Sales,Yes,6744,1,1,No
+EMP-0747,25,Under 30,Sales,No,5271,16,1,No
+EMP-0748,41,40–49,Human Resources,Yes,8425,7,3,No
+EMP-0749,39,30–39,Sales,No,4570,16,4,No
+EMP-0750,35,30–39,Sales,Yes,4771,15,2,No
+EMP-0751,43,40–49,Sales,No,6038,21,1,No
+EMP-0752,55,50+,Research & Development,No,5863,12,2,Yes
+EMP-0753,59,50+,Research & Development,No,9872,24,2,No
+EMP-0754,22,Under 30,Sales,No,4359,3,1,No
+EMP-0755,57,50+,Research & Development,No,9484,21,1,No
+EMP-0756,25,Under 30,Sales,No,5359,19,3,No
+EMP-0757,24,Under 30,Sales,No,7311,24,1,No
+EMP-0758,21,Under 30,Research & Development,No,6422,23,1,Yes
+EMP-0759,27,Under 30,Research & Development,No,7390,1,4,No
+EMP-0760,59,50+,Human Resources,No,1800,17,3,No
+EMP-0761,24,Under 30,Research & Development,Yes,4812,3,2,Yes
+EMP-0762,46,40–49,Research & Development,No,5075,16,1,No
+EMP-0763,27,Under 30,Research & Development,No,3280,2,3,No
+EMP-0764,23,Under 30,Sales,No,3102,19,3,No
+EMP-0765,54,50+,Research & Development,No,4917,14,4,No
+EMP-0766,41,40–49,Sales,No,4679,21,1,No
+EMP-0767,34,30–39,Research & Development,No,5905,12,4,No
+EMP-0768,30,30–39,Research & Development,Yes,4452,17,1,No
+EMP-0769,39,30–39,Research & Development,Yes,3828,6,1,Yes
+EMP-0770,49,40–49,Sales,No,6215,11,4,No
+EMP-0771,45,40–49,Sales,No,1800,14,2,No
+EMP-0772,52,50+,Sales,Yes,4069,8,2,No
+EMP-0773,53,50+,Research & Development,Yes,4985,12,1,No
+EMP-0774,32,30–39,Sales,Yes,2950,3,1,Yes
+EMP-0775,60,50+,Sales,No,2766,20,4,No
+EMP-0776,46,40–49,Research & Development,No,7435,22,2,No
+EMP-0777,53,50+,Research & Development,No,6971,23,2,No
+EMP-0778,57,50+,Sales,Yes,9010,3,1,Yes
+EMP-0779,30,30–39,Research & Development,Yes,4934,24,2,No
+EMP-0780,22,Under 30,Human Resources,No,6463,17,2,No
+EMP-0781,39,30–39,Research & Development,Yes,10966,6,1,No
+EMP-0782,50,50+,Sales,No,6273,20,2,No
+EMP-0783,51,50+,Research & Development,No,6926,23,4,No
+EMP-0784,48,40–49,Research & Development,Yes,2393,5,3,No
+EMP-0785,53,50+,Research & Development,No,6799,7,4,No
+EMP-0786,48,40–49,Research & Development,No,6861,4,1,No
+EMP-0787,43,40–49,Research & Development,No,12181,14,4,No
+EMP-0788,31,30–39,Research & Development,No,8063,0,1,No
+EMP-0789,60,50+,Research & Development,Yes,6926,5,3,Yes
+EMP-0790,30,30–39,Research & Development,Yes,6811,21,1,Yes
+EMP-0791,56,50+,Sales,Yes,4613,18,2,No
+EMP-0792,25,Under 30,Research & Development,No,5308,3,3,No
+EMP-0793,35,30–39,Research & Development,No,10175,22,1,No
+EMP-0794,49,40–49,Sales,No,6088,17,2,No
+EMP-0795,21,Under 30,Sales,No,1800,8,1,No
+EMP-0796,55,50+,Research & Development,No,6415,0,3,No
+EMP-0797,44,40–49,Sales,No,6951,24,3,No
+EMP-0798,27,Under 30,Research & Development,No,5069,22,4,No
+EMP-0799,41,40–49,Sales,No,7867,1,1,Yes
+EMP-0800,58,50+,Sales,Yes,5637,20,4,Yes
+EMP-0801,52,50+,Sales,No,5303,22,2,No
+EMP-0802,56,50+,Sales,No,6044,8,1,No
+EMP-0803,45,40–49,Research & Development,No,6209,17,4,No
+EMP-0804,26,Under 30,Research & Development,No,5918,17,4,No
+EMP-0805,26,Under 30,Research & Development,No,6363,11,4,No
+EMP-0806,27,Under 30,Sales,No,10544,6,1,No
+EMP-0807,46,40–49,Research & Development,Yes,4855,22,4,No
+EMP-0808,31,30–39,Research & Development,No,6936,2,4,Yes
+EMP-0809,42,40–49,Human Resources,No,5083,9,2,No
+EMP-0810,51,50+,Sales,No,4939,2,3,No
+EMP-0811,28,Under 30,Research & Development,No,9315,21,1,No
+EMP-0812,31,30–39,Sales,No,3605,1,1,No
+EMP-0813,37,30–39,Human Resources,Yes,4902,11,2,Yes
+EMP-0814,46,40–49,Sales,No,7208,14,2,No
+EMP-0815,46,40–49,Research & Development,No,3321,22,1,No
+EMP-0816,51,50+,Sales,No,3290,15,2,No
+EMP-0817,55,50+,Sales,Yes,6537,5,3,Yes
+EMP-0818,56,50+,Research & Development,No,4436,6,2,No
+EMP-0819,36,30–39,Sales,No,9188,24,1,No
+EMP-0820,27,Under 30,Research & Development,Yes,10253,1,4,No
+EMP-0821,38,30–39,Sales,No,4161,24,1,No
+EMP-0822,44,40–49,Human Resources,Yes,5338,21,4,No
+EMP-0823,24,Under 30,Sales,No,4869,8,1,No
+EMP-0824,23,Under 30,Research & Development,Yes,5981,10,4,No
+EMP-0825,46,40–49,Research & Development,No,5859,11,2,No
+EMP-0826,29,Under 30,Human Resources,Yes,4188,19,4,No
+EMP-0827,36,30–39,Research & Development,No,7612,20,4,No
+EMP-0828,40,40–49,Human Resources,No,4673,12,1,No
+EMP-0829,36,30–39,Sales,No,3081,14,3,No
+EMP-0830,25,Under 30,Research & Development,Yes,11454,16,3,No
+EMP-0831,36,30–39,Research & Development,No,8515,13,2,No
+EMP-0832,35,30–39,Sales,No,3060,2,4,No
+EMP-0833,40,40–49,Research & Development,No,4273,13,2,No
+EMP-0834,50,50+,Sales,Yes,7608,2,2,No
+EMP-0835,54,50+,Research & Development,No,9922,22,1,No
+EMP-0836,54,50+,Research & Development,No,4873,10,1,No
+EMP-0837,21,Under 30,Research & Development,No,6754,20,2,No
+EMP-0838,21,Under 30,Research & Development,No,6938,19,4,No
+EMP-0839,25,Under 30,Research & Development,No,6777,24,1,No
+EMP-0840,40,40–49,Sales,No,6411,1,2,No
+EMP-0841,22,Under 30,Research & Development,No,7099,9,1,No
+EMP-0842,24,Under 30,Sales,Yes,3431,23,3,No
+EMP-0843,27,Under 30,Research & Development,No,7382,16,2,Yes
+EMP-0844,58,50+,Sales,No,5465,1,1,No
+EMP-0845,53,50+,Human Resources,No,8826,15,1,No
+EMP-0846,49,40–49,Sales,No,4568,5,3,No
+EMP-0847,34,30–39,Human Resources,Yes,5331,9,2,No
+EMP-0848,44,40–49,Research & Development,No,10618,0,4,No
+EMP-0849,30,30–39,Research & Development,No,10458,0,4,No
+EMP-0850,37,30–39,Research & Development,No,6338,13,3,No
+EMP-0851,49,40–49,Research & Development,No,8204,15,1,No
+EMP-0852,39,30–39,Research & Development,No,5883,3,3,No
+EMP-0853,48,40–49,Human Resources,No,8357,16,3,No
+EMP-0854,42,40–49,Research & Development,No,7126,0,1,No
+EMP-0855,60,50+,Research & Development,No,3350,8,1,No
+EMP-0856,47,40–49,Research & Development,Yes,4946,10,2,Yes
+EMP-0857,53,50+,Research & Development,No,7034,21,3,No
+EMP-0858,30,30–39,Research & Development,No,4439,7,4,No
+EMP-0859,35,30–39,Research & Development,No,4329,18,1,No
+EMP-0860,33,30–39,Sales,No,3896,11,4,Yes
+EMP-0861,56,50+,Human Resources,No,3906,18,4,No
+EMP-0862,34,30–39,Research & Development,No,4474,12,4,Yes
+EMP-0863,54,50+,Research & Development,No,3222,23,2,No
+EMP-0864,53,50+,Sales,No,4331,8,4,Yes
+EMP-0865,24,Under 30,Research & Development,No,8167,24,3,No
+EMP-0866,46,40–49,Research & Development,No,6389,16,4,No
+EMP-0867,30,30–39,Sales,No,3477,18,4,No
+EMP-0868,48,40–49,Human Resources,Yes,7003,17,4,Yes
+EMP-0869,22,Under 30,Sales,Yes,6713,7,3,No
+EMP-0870,33,30–39,Sales,No,2289,11,2,No
+EMP-0871,28,Under 30,Sales,No,3791,16,3,No
+EMP-0872,39,30–39,Research & Development,No,10248,16,1,No
+EMP-0873,32,30–39,Research & Development,No,5740,24,3,No
+EMP-0874,29,Under 30,Sales,No,4301,7,2,No
+EMP-0875,56,50+,Sales,No,6942,20,2,No
+EMP-0876,37,30–39,Sales,No,7486,14,3,No
+EMP-0877,26,Under 30,Sales,No,6715,3,1,No
+EMP-0878,26,Under 30,Human Resources,No,6320,7,1,No
+EMP-0879,40,40–49,Research & Development,No,8881,1,4,No
+EMP-0880,26,Under 30,Research & Development,No,9274,14,1,No
+EMP-0881,32,30–39,Research & Development,No,8254,12,1,No
+EMP-0882,54,50+,Research & Development,Yes,7967,21,4,No
+EMP-0883,24,Under 30,Sales,No,7502,22,3,No
+EMP-0884,23,Under 30,Sales,Yes,7528,0,4,No
+EMP-0885,29,Under 30,Sales,No,6523,0,1,No
+EMP-0886,33,30–39,Sales,No,5524,20,2,No
+EMP-0887,37,30–39,Sales,No,5592,14,1,No
+EMP-0888,39,30–39,Sales,Yes,4781,0,2,No
+EMP-0889,22,Under 30,Research & Development,No,6884,7,4,No
+EMP-0890,45,40–49,Research & Development,No,5725,22,4,No
+EMP-0891,58,50+,Research & Development,No,7618,4,3,No
+EMP-0892,48,40–49,Research & Development,No,3420,20,3,No
+EMP-0893,40,40–49,Research & Development,No,6744,12,4,No
+EMP-0894,57,50+,Research & Development,Yes,11040,3,4,Yes
+EMP-0895,21,Under 30,Research & Development,No,8440,17,3,No
+EMP-0896,59,50+,Research & Development,No,6507,20,4,No
+EMP-0897,21,Under 30,Sales,No,7341,8,1,No
+EMP-0898,49,40–49,Research & Development,No,5164,0,3,No
+EMP-0899,38,30–39,Research & Development,No,4705,16,2,No
+EMP-0900,29,Under 30,Sales,No,6000,8,1,No

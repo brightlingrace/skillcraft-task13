@@ -1,0 +1,10 @@
+-- Power BI measures (table name: HR)
+Employee Count = DISTINCTCOUNT(HR[Employee_ID])
+Attrition Count = CALCULATE(COUNTROWS(HR), HR[Attrition] = "Yes")
+Attrition Rate = DIVIDE([Attrition Count], [Employee Count], 0)
+Average Monthly Income = AVERAGE(HR[Monthly_Income])
+Average Job Satisfaction = AVERAGE(HR[Job_Satisfaction])
+
+-- Recommended slicers: Department, Age_Group, OverTime, Job_Satisfaction
+-- Recommended visuals: KPI cards; attrition count by department; attrition rate by age group;
+-- attrition by overtime; attrition by job satisfaction.
